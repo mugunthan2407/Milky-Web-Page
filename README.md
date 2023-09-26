@@ -1,2 +1,2 @@
 #Milky-Web-Page 
-"Designed and developed a dynamic, fully functional large-scale website with an interactive frontend using HTML, CSS, Bootstrap, JavaScript, and integrated Python-based Django components. Implemented captivating hovering effects and deployed the project on GitHub for seamless accessibility."
+"Designed and developed a dynamic, feature-rich web application with a responsive front-end using HTML, CSS, Bootstrap, and JavaScript, incorporating interactive elements and deployed the project on GitHub, showcasing expertise in front-end web development and user interface design."
